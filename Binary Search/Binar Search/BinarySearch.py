@@ -12,7 +12,7 @@
             elif target < nums[mid]:
                 end = mid - 1
 
-            else:
+            else: 
                 start = mid + 1
 
         return -1
