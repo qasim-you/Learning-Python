@@ -5,7 +5,7 @@
   - [ArrayList Introduction](https://youtu.be/n60Dn0UsbEk?t=4868)
   - Searching
     - [Linear Search](https://youtu.be/_HRA37X8N_Q)
-    - [Binary Search](https://youtu.be/f6UU7V3szVw)
+     - [Binary Search](https://youtu.be/f6UU7V3szVw)
     - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
     - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
   - Sorting
