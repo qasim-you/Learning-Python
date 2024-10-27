@@ -23,7 +23,7 @@
   - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
   - [StringBuilder in Java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
   - [StringBuffer](https://www.youtube.com/watch?v=YFZai3fPUQI)
-- [Maths for DSA](https://youtu.be/fzip9Aml6og)
+ - [Maths for DSA](https://youtu.be/fzip9Aml6og)
   - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
   - [Complete Bitwise Operators](https://youtu.be/fzip9Aml6og?t=95)
   - [Range of numbers](https://youtu.be/fzip9Aml6og?t=4169)
