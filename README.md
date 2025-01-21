@@ -10,7 +10,7 @@
     - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
   - Sorting
     - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
-    - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
+    - [Selection Sort](https://youtu.be/Nd4SCCIHFWk) 
     - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
     - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
     - [Count Sort](https://youtu.be/FOo820lJV1Y)
