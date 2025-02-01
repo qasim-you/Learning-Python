@@ -4,7 +4,7 @@ class Solution:
 
         for i, num in enumerate(nums):
             complement = target - num
-            if complement in dict:
+            if complement in dict: 
                 return [dict[complement],i]
             else:
                 dict[num] = i
