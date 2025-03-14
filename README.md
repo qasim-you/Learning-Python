@@ -1,4 +1,4 @@
-[Arrays](https://youtu.be/n60Dn0UsbEk)
+ [Arrays](https://youtu.be/n60Dn0UsbEk)
 - [Introduction](https://youtu.be/n60Dn0UsbEk)
   - [Memory management](https://youtu.be/n60Dn0UsbEk?t=632) 
   - [Input and Output](https://youtu.be/n60Dn0UsbEk?t=1675)
