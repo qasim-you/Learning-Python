@@ -1,4 +1,4 @@
-class Solution:
+ class Solution:
     def isPalindrome(self, x: int) -> bool:
         a = x
         reverse = 0
