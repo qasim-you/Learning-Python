@@ -157,7 +157,7 @@
   - 0/1 Knapsack
   - Subset Questions 
   - Unbounded Knapsack
-  - Subsequence questions
+  - Subsequent questions
   - String DP
 - Greedy Algorithms
 - Tries
