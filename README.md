@@ -154,7 +154,7 @@
   - Introduction
   - Recursion + Recursion DP + Iteration + Iteration Space Optimized
   - Complexity Analysis
-  - 0/1 Knapsack
+  - 0/1 Knapsack 
   - Subset Questions 
   - Unbounded Knapsack
   - Subsequent questions
