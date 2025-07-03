@@ -5,10 +5,8 @@
 
         while start <= end:
             mid = start + (end - start) // 2
-
             if target == nums[mid]:
                 return mid
-
             elif target < nums[mid]:
                 end = mid - 1
 
