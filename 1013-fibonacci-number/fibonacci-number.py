@@ -8,4 +8,4 @@ class Solution:
             else:
                 memo[x] = f(x-1) + f(x-2)
                 return memo[x]
-        return f(n)  
+        return f(n) 
