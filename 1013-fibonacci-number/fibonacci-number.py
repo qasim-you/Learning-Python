@@ -1,5 +1,5 @@
 class Solution:
-    def fib(self, n: int) -> int:
+     def fib(self, n: int) -> int:
         memo = {0: 0, 1: 1}
 
         def f(x):
